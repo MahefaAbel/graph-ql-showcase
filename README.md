@@ -1,2 +1,2 @@
-# graph-ql-showcase
+# GraphQL Showcase
 GraphQL Showcase
